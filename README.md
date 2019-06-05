@@ -1,6 +1,8 @@
 # ffmpeg-quality
 
-A docker image that contains ffmpeg w/libvmaf
+A docker image that contains ffmpeg w/libvmaf https://hub.docker.com/r/zsiec/ffmpeg-quality
+
+	docker pull zsiec/ffmpeg-quality
 
 Build args:
 
